@@ -1,2 +1,2 @@
-# ServerNodeJSBootstrap
-Bootstrap of an nodejs server
+# Boilerplate nodejs server 
+exress and mongoose
