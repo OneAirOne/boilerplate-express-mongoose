@@ -1,2 +1,2 @@
 # Boilerplate nodejs server 
-exress and mongoose
+using express and mongoose
