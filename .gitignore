@@ -1,0 +1,4 @@
+# externals libs
+node_modules
+# environnement variables
+.env
