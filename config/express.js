@@ -10,7 +10,7 @@ const route = require('../index.route');
 
 const app = express();
 
-if (config.env === 'developpement') {
+if (config.env === 'development') {
   app.use(logger('dev'));
 }
 
