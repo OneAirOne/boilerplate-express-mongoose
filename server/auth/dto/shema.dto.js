@@ -1,6 +1,6 @@
-const Joi = require('joi');
+const Joi = require('@hapi/joi');
 
 module.exports = {
-  email: Joi.string(),
-  password: Joi.string(),
+  email: Joi.string().required(),
+  password: Joi.string().required(),
 };
